@@ -1,0 +1,7 @@
+htmlparse:
+
+parsing.html and tokenization.html are from W3C.
+
+see:
+    http://www.w3.org/TR/html5/parsing.html
+    http://www.w3.org/TR/html5/tokenization.html
